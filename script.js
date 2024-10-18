@@ -5,7 +5,7 @@ let currentIndex = 0
 let leftSlide = document.querySelector('.prev__slide')
 let rightSlide = document.querySelector('.next__slide')
 let body = document.querySelector('.body')
-let colors = ['#e0af6b', 'gray', '#1257b7', '#aae16f']
+let colors = ['#ea5b5b', '#e1ce1f', '#b71212', '#aae16f']
 
 function showSlide(index) {
     slider.style.transform = `translateX(-${index * 100}%)`;

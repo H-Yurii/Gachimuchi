@@ -13,7 +13,7 @@ body {
     overflow: hidden;
     position: relative;
     transition: 0.5s;
-    background-color: #e0af6b;
+    background-color: #ea5b5b;
 }
 
 .header {
@@ -55,7 +55,7 @@ body {
     content: '';
     width: 0%;
     height: 6%;
-    background-color: #e0af6b;
+    background-color: #ea5b5b;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -66,7 +66,7 @@ body {
     content: '';
     width: 110%;
     height: 6%;
-    background-color: #e0af6b;
+    background-color: #ea5b5b;
     bottom: 0%;
     left: -5%;
 }
@@ -76,7 +76,7 @@ body {
     content: '';
     width: 0%;
     height: 6%;
-    background-color: gray;
+    background-color: #e1ce1f;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -87,7 +87,7 @@ body {
     content: '';
     width: 110%;
     height: 6%;
-    background-color: gray;
+    background-color: #e1ce1f;
     bottom: 0%;
     left: -5%;
 }
@@ -97,7 +97,7 @@ body {
     content: '';
     width: 0%;
     height: 6%;
-    background-color: #1257b7;
+    background-color: #b71212;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -108,7 +108,7 @@ body {
     content: '';
     width: 110%;
     height: 6%;
-    background-color: #1257b7;
+    background-color: #b71212;
     bottom: 0%;
     left: -5%;
 }
@@ -159,7 +159,7 @@ body {
 }
 
 .slider__box-img {
-    width: 300px;
+    width: 270px;
     position: absolute;
 }
 
@@ -216,7 +216,7 @@ body {
     content: '';
     width: 0%;
     height: 5%;
-    background-color: #e0af6b;
+    background-color: #ea5b5b;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -227,7 +227,7 @@ body {
     content: '';
     width: 110%;
     height: 5%;
-    background-color: #e0af6b;
+    background-color: #ea5b5b;
     bottom: 0%;
     left: -5%;
 }
@@ -237,7 +237,7 @@ body {
     content: '';
     width: 0%;
     height: 5%;
-    background-color: gray;
+    background-color: #e1ce1f;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -248,7 +248,7 @@ body {
     content: '';
     width: 110%;
     height: 5%;
-    background-color: gray;
+    background-color: #e1ce1f;
     bottom: 0%;
     left: -5%;
 }
@@ -258,7 +258,7 @@ body {
     content: '';
     width: 0%;
     height: 5%;
-    background-color: #1257b7;
+    background-color: #b71212;
     bottom: 0%;
     left: -5%;
     transition: 0.5s;
@@ -269,7 +269,7 @@ body {
     content: '';
     width: 110%;
     height: 5%;
-    background-color: #1257b7;
+    background-color: #b71212;
     bottom: 0%;
     left: -5%;
 }
@@ -319,7 +319,7 @@ body {
         left: 5%;
         top: 10%;
     }
-    
+
     .slider__box-img:nth-child(3) {
         position: absolute;
         left: 56%;
@@ -331,6 +331,7 @@ body {
         left: 60%;
         bottom: 5%;
     }
+
     .slider__box-img:nth-child(5) {
         position: absolute;
         left: 15%;
